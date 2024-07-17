@@ -1,5 +1,4 @@
 import { Button } from "@/components/ui/button";
-import React from "react";
 import Image from "next/image";
 
 interface ButtonProps {
